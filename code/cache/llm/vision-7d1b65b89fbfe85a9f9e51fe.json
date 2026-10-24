@@ -1,0 +1,28 @@
+{
+  "purpose": "vision",
+  "model": "none (manual)",
+  "provider": "manual-transcription",
+  "output": {
+    "records": [
+      {
+        "reference": "search_428",
+        "email": "g.silva76@gmail.com",
+        "phone": null,
+        "name": "Gabriel Silva",
+        "user_id": "user_13",
+        "status": "hit",
+        "detail": "customer_directory_v3; indexed 2026-09-01T05:58:21Z; score 9.84"
+      },
+      {
+        "reference": "search_1874",
+        "email": "g.silva76.jr@gmail.com",
+        "phone": null,
+        "name": null,
+        "user_id": null,
+        "status": "hit",
+        "detail": "no display name or customer reference; last indexed 05:55:03 UTC; score 4.12"
+      }
+    ]
+  },
+  "note": "Transcribed by the coding agent from the screenshot; not a runtime API call."
+}

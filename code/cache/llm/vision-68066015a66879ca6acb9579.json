@@ -1,0 +1,19 @@
+{
+  "purpose": "vision",
+  "model": "none (manual)",
+  "provider": "manual-transcription",
+  "output": {
+    "records": [
+      {
+        "reference": "marketing_001",
+        "email": "sj.park@naver.com",
+        "phone": "+82 10-5837-9451",
+        "name": "Soo-jin Park",
+        "user_id": null,
+        "status": "Live",
+        "detail": "Audience Operations profile; email opt-in yes; last refreshed 15 Sep 2026 23:40 UTC"
+      }
+    ]
+  },
+  "note": "Transcribed by the coding agent from the screenshot; not a runtime API call."
+}

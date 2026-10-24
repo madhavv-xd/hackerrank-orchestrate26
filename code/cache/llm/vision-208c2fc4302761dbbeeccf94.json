@@ -1,0 +1,55 @@
+{
+  "purpose": "vision",
+  "model": "none (manual)",
+  "provider": "manual-transcription",
+  "output": {
+    "records": [
+      {
+        "reference": "backup_9291",
+        "email": "bluepeakco@outlook.com",
+        "phone": null,
+        "name": null,
+        "user_id": null,
+        "status": "Archive",
+        "detail": "ap-southeast-1; created 26 Apr 02:00; 102.3 GB"
+      },
+      {
+        "reference": "backup_9288",
+        "email": "miller.logistics@company.com",
+        "phone": null,
+        "name": null,
+        "user_id": null,
+        "status": "Archive",
+        "detail": "us-west-2; created 26 Apr 02:00; 67.1 GB"
+      },
+      {
+        "reference": "backup_9287",
+        "email": "areed1433@gmail.com",
+        "phone": null,
+        "name": null,
+        "user_id": null,
+        "status": "Archive",
+        "detail": "eu-west-1; created 26 Apr 2026 02:00 UTC; checksum verified; last drill 29 Mar 2026; retention end 26 Jul 2026"
+      },
+      {
+        "reference": "backup_9286",
+        "email": "summit-retail@company.com",
+        "phone": null,
+        "name": null,
+        "user_id": null,
+        "status": "Archive",
+        "detail": "us-east-1; created 26 Apr 02:00; restored 25 Apr completed"
+      },
+      {
+        "reference": "backup_9281",
+        "email": null,
+        "phone": null,
+        "name": null,
+        "user_id": null,
+        "status": null,
+        "detail": "restored 24 Apr completed"
+      }
+    ]
+  },
+  "note": "Transcribed by the coding agent from the screenshot; not a runtime API call."
+}

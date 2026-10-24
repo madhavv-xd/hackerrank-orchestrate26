@@ -1,0 +1,289 @@
+{
+  "purpose": "intent",
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "provider": "openrouter",
+  "output": {
+    "results": [
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I want to close this account and have its associated personal data deleted.",
+        "id": 0
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I want to close this account and have its associated personal data deleted.",
+        "id": 1
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I want to close this account and have its associated personal data deleted.",
+        "id": 2
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I want to close this account and have its associated personal data deleted.",
+        "id": 3
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I want to close this account and have its associated personal data deleted.",
+        "id": 4
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I want to close this account and have its associated personal data deleted.",
+        "id": 5
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I want to close this account and have its associated personal data deleted.",
+        "id": 6
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I want to close this account and have its associated personal data deleted.",
+        "id": 7
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I want to close this account and have its associated personal data deleted.",
+        "id": 8
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I want to close this account and have its associated personal data deleted.",
+        "id": 9
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I want to close this account and have its associated personal data deleted.",
+        "id": 10
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I want to close this account and have its associated personal data deleted.",
+        "id": 11
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I want to close this account and have its associated personal data deleted.",
+        "id": 12
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I want to close this account and have its associated personal data deleted.",
+        "id": 13
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I want to close this account permanently.",
+        "id": 14
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please investigate and finish the deletion.",
+        "id": 15
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please handle them and disable any synchronization that could recreate them.",
+        "id": 16
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 17
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 18
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 19
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 20
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 21
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 22
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 23
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 24
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 25
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 26
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 27
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 28
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 29
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 30
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 31
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 32
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 33
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 34
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 35
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 36
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 37
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 38
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I would like the account associated with this address to be erased.",
+        "id": 39
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "purpose": "vision",
+  "model": "none (manual)",
+  "provider": "manual-transcription",
+  "output": {
+    "records": [
+      {
+        "reference": "delivery_confirmation_19.pdf",
+        "email": null,
+        "phone": null,
+        "name": null,
+        "user_id": null,
+        "status": "Standard",
+        "detail": "northstar-customer-data/support-attachments; 684 KB; v3; modified 12 Feb 2026 18:42 UTC; uploader support-service"
+      },
+      {
+        "reference": "delivery_confirmation_20.pdf",
+        "email": null,
+        "phone": null,
+        "name": null,
+        "user_id": null,
+        "status": "Standard",
+        "detail": "712 KB; v1; modified 11 Feb 14:17"
+      }
+    ]
+  },
+  "note": "Transcribed by the coding agent from the screenshot; not a runtime API call."
+}

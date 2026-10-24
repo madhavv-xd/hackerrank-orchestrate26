@@ -1,0 +1,28 @@
+{
+  "purpose": "vision",
+  "model": "none (manual)",
+  "provider": "manual-transcription",
+  "output": {
+    "records": [
+      {
+        "reference": "account_5762",
+        "email": "haruka.s1838@zoho.com",
+        "phone": "+81 90 7610 2507",
+        "name": "Haruka Sato",
+        "user_id": "user_11",
+        "status": "Silver",
+        "detail": "Customer profile open in Customer Operations; last contact 24 Sep 2026 09:14 JST; member since 12 Jan 2024"
+      },
+      {
+        "reference": "support_9538",
+        "email": null,
+        "phone": null,
+        "name": null,
+        "user_id": null,
+        "status": null,
+        "detail": "Support CS-8538 listed in customer details of user_11 / account_5762; created 28 Aug; customer replied 24 Sep"
+      }
+    ]
+  },
+  "note": "Transcribed by the coding agent from the screenshot; not a runtime API call."
+}

@@ -1,0 +1,289 @@
+{
+  "purpose": "intent",
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "provider": "openrouter",
+  "output": {
+    "results": [
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please permanently delete the account associated with this email address.",
+        "id": 0
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please permanently delete the account associated with this email address.",
+        "id": 1
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please permanently delete the account associated with this email address.",
+        "id": 2
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please permanently delete the account associated with this email address.",
+        "id": 3
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please permanently delete the account associated with this email address.",
+        "id": 4
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 5
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 6
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 7
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 8
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 9
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 10
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 11
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 12
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 13
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 14
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 15
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 16
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 17
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 18
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 19
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 20
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 21
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 22
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 23
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 24
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 25
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 26
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 27
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 28
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 29
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 30
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please process a permanent account-deletion request for this email address.",
+        "id": 31
+      },
+      {
+        "authorizes_deletion": false,
+        "request_type": "marketing_opt_out",
+        "language": "en",
+        "reason": "Please remove me from marketing lists only.",
+        "id": 32
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please remove my profile and clean my personal details out of earlier support conversations.",
+        "id": 33
+      },
+      {
+        "authorizes_deletion": false,
+        "request_type": "marketing_opt_out",
+        "language": "en",
+        "reason": "Please stop the promotional emails. I still need the account and my order history, so I am not asking for deletion.",
+        "id": 34
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please treat this message as a request for permanent account deletion.",
+        "id": 35
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please treat this message as a request for permanent account deletion.",
+        "id": 36
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please treat this message as a request for permanent account deletion.",
+        "id": 37
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please treat this message as a request for permanent account deletion.",
+        "id": 38
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Please treat this message as a request for permanent account deletion.",
+        "id": 39
+      }
+    ]
+  }
+}

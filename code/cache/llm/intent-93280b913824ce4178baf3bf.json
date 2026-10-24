@@ -1,0 +1,289 @@
+{
+  "purpose": "intent",
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "provider": "openrouter",
+  "output": {
+    "results": [
+      {
+        "authorizes_deletion": false,
+        "request_type": "access",
+        "language": "en",
+        "reason": "This is an information request, not a request to erase it.",
+        "id": 0
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "Can you verify that my account was deleted?",
+        "id": 1
+      },
+      {
+        "authorizes_deletion": false,
+        "request_type": "export",
+        "language": "en",
+        "reason": "Could you send me a copy of the information held on my account? I still use it, so please don't delete or change anything.",
+        "id": 2
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "would like it closed. Please remove the profile and the personal details attached to it.",
+        "id": 3
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 4
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 5
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 6
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 7
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 8
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 9
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 10
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 11
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 12
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 13
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 14
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 15
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 16
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 17
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 18
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 19
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 20
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 21
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 22
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 23
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 24
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 25
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 26
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 27
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 28
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 29
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 30
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 31
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 32
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am asking you to remove my account and the personal information linked to it.",
+        "id": 33
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am requesting deletion of the account registered to this email address.",
+        "id": 34
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am requesting deletion of the account registered to this email address.",
+        "id": 35
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am requesting deletion of the account registered to this email address.",
+        "id": 36
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am requesting deletion of the account registered to this email address.",
+        "id": 37
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am requesting deletion of the account registered to this email address.",
+        "id": 38
+      },
+      {
+        "authorizes_deletion": true,
+        "request_type": "deletion",
+        "language": "en",
+        "reason": "I am requesting deletion of the account registered to this email address.",
+        "id": 39
+      }
+    ]
+  }
+}

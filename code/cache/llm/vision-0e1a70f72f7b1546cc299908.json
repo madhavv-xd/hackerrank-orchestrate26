@@ -1,0 +1,46 @@
+{
+  "purpose": "vision",
+  "model": "none (manual)",
+  "provider": "manual-transcription",
+  "output": {
+    "records": [
+      {
+        "reference": "export_1261",
+        "email": "marcus.lee@northstar.shop",
+        "phone": null,
+        "name": null,
+        "user_id": null,
+        "status": "Collecting",
+        "detail": "customer_export_1261.zip; created 20 Jun 14:18 UTC"
+      },
+      {
+        "reference": "export_1260",
+        "email": "ingrid.dahl@outlook.com",
+        "phone": null,
+        "name": null,
+        "user_id": null,
+        "status": "Ready",
+        "detail": "customer_export_1260.zip; created 18 Jun 2026 06:42 UTC; expires 25 Jun 2026 06:42 UTC; download count 0; includes profile, orders, saved addresses"
+      },
+      {
+        "reference": "export_1259",
+        "email": "sara.kim@northstar.shop",
+        "phone": null,
+        "name": null,
+        "user_id": null,
+        "status": "Packaging",
+        "detail": "customer_export_1259.zip; created 17 Jun 11:03 UTC"
+      },
+      {
+        "reference": "export_1258",
+        "email": "daniel.park@northstar.shop",
+        "phone": null,
+        "name": null,
+        "user_id": null,
+        "status": "Ready",
+        "detail": "customer_export_1258.zip; created 16 Jun 09:27 UTC"
+      }
+    ]
+  },
+  "note": "Transcribed by the coding agent from the screenshot; not a runtime API call."
+}

@@ -1,0 +1,26 @@
+{
+  "name": "ghost-data-audit-agent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.5"
+  },
+  "scripts": {
+    "audit": "node --env-file-if-exists=../.env --experimental-strip-types --no-warnings src/main.ts",
+    "score": "node --env-file-if-exists=../.env --experimental-strip-types --no-warnings src/main.ts --samples",
+    "inspect": "node --experimental-strip-types --no-warnings src/inspect.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^6.4.299",
+    "pino": "^10.4.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5"
+  }
+}

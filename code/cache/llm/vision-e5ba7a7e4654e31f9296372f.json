@@ -1,0 +1,19 @@
+{
+  "purpose": "vision",
+  "model": "none (manual)",
+  "provider": "manual-transcription",
+  "output": {
+    "records": [
+      {
+        "reference": "support_1034",
+        "email": "kagyeman8947@fastmail.com",
+        "phone": null,
+        "name": "Kofi Agyeman",
+        "user_id": null,
+        "status": "SLA 01:42",
+        "detail": "CS-5034 Where is my delivery?; order ORD-20265034; assigned Maya Chen; conversation 09:12-09:35"
+      }
+    ]
+  },
+  "note": "Transcribed by the coding agent from the screenshot; not a runtime API call."
+}

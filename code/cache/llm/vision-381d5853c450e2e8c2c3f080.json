@@ -1,0 +1,19 @@
+{
+  "purpose": "vision",
+  "model": "none (manual)",
+  "provider": "manual-transcription",
+  "output": {
+    "records": [
+      {
+        "reference": "analytics_7438",
+        "email": "darwish.omar@icloud.com",
+        "phone": null,
+        "name": "Omar Darwish",
+        "user_id": "user_20",
+        "status": "Last 90 days",
+        "detail": "Pulse Analytics user profile; last activity 13 Jul 2026 14:22 UTC; first seen 21 Apr 2026"
+      }
+    ]
+  },
+  "note": "Transcribed by the coding agent from the screenshot; not a runtime API call."
+}

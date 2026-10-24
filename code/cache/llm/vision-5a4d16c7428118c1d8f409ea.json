@@ -1,0 +1,28 @@
+{
+  "purpose": "vision",
+  "model": "none (manual)",
+  "provider": "manual-transcription",
+  "output": {
+    "records": [
+      {
+        "reference": "data_flow_1121",
+        "email": "jain.aditi@gmail.com",
+        "phone": null,
+        "name": null,
+        "user_id": null,
+        "status": "Healthy",
+        "detail": "Continuous sync to customer_analytics_warehouse; 1,284 events/hour; last contact 07:59:42; last response 200 OK"
+      },
+      {
+        "reference": "data_flow_9846",
+        "email": "lucia-torres@gmail.com",
+        "phone": null,
+        "name": null,
+        "user_id": null,
+        "status": "Continuous",
+        "detail": "customer_analytics_warehouse; 842 events/hour; last contact 07:59:36"
+      }
+    ]
+  },
+  "note": "Transcribed by the coding agent from the screenshot; not a runtime API call."
+}

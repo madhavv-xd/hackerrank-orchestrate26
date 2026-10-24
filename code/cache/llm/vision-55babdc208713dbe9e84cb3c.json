@@ -1,0 +1,64 @@
+{
+  "purpose": "vision",
+  "model": "none (manual)",
+  "provider": "manual-transcription",
+  "output": {
+    "records": [
+      {
+        "reference": "audit_record_003",
+        "email": null,
+        "phone": null,
+        "name": null,
+        "user_id": "user_03",
+        "status": "Valid",
+        "detail": "Account closure recorded 25 Aug 04:03; automated account workflow; journal 2026-Q3"
+      },
+      {
+        "reference": "audit_record_002",
+        "email": null,
+        "phone": null,
+        "name": null,
+        "user_id": "user_03",
+        "status": "Valid",
+        "detail": "Session revoked 25 Aug 03:21"
+      },
+      {
+        "reference": "audit_record_001",
+        "email": null,
+        "phone": null,
+        "name": null,
+        "user_id": "user_03",
+        "status": "Valid",
+        "detail": "Recovery challenge completed 24 Aug 16:14"
+      },
+      {
+        "reference": "audit_record_006",
+        "email": null,
+        "phone": null,
+        "name": null,
+        "user_id": "user_03",
+        "status": "Valid",
+        "detail": "Email change confirmed 22 Aug 11:27"
+      },
+      {
+        "reference": "audit_record_005",
+        "email": null,
+        "phone": null,
+        "name": null,
+        "user_id": "user_03",
+        "status": "Valid",
+        "detail": "Login from new device 20 Aug 09:42"
+      },
+      {
+        "reference": "audit_record_004",
+        "email": null,
+        "phone": null,
+        "name": null,
+        "user_id": "user_03",
+        "status": "Valid",
+        "detail": "Password changed 18 Aug 14:05"
+      }
+    ]
+  },
+  "note": "Transcribed by the coding agent from the screenshot; not a runtime API call."
+}

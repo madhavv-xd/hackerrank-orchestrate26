@@ -1,0 +1,19 @@
+{
+  "purpose": "vision",
+  "model": "none (manual)",
+  "provider": "manual-transcription",
+  "output": {
+    "records": [
+      {
+        "reference": "user_17",
+        "email": null,
+        "phone": null,
+        "name": null,
+        "user_id": "user_17",
+        "status": "Retained reference",
+        "detail": "Customer key, Account Platform, eu-west; no name, email or phone shown; linked orders ORD-20263245, support CS-3245, CS-3378, finance FIN-7742 active; most recent update 10 Mar 2026 07:18 UTC"
+      }
+    ]
+  },
+  "note": "Transcribed by the coding agent from the screenshot; not a runtime API call."
+}
